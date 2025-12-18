@@ -27,6 +27,7 @@ cd Stargaze-React
 npm install
 npm install lucide-react
 npm install -D @tailwindcss/postcss
+npm install -D autoprefixer postcss
 
 #Running the App
 npm run dev
